@@ -45,7 +45,7 @@ function Fotter() {
 
     <div class="bottom-details">
       <div class="bottom_text">
-        <span class="copyright_text">Copyright © 2021 <a href="#">Pico.</a></span>
+        <span class="copyright_text">Copyright © 2021 <a href="#">Indore Explore.</a></span>
       </div>
     </div>
   </footer>
